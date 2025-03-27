@@ -38,7 +38,6 @@
 - 🛒 [Sistema de Loja de Roupas](https://github.com/GabrielMaschio/...) — Carrinho de compras com HTML, CSS, JS e PHP
 - 🚗 [Sistema de Aluguel de Veículos](https://github.com/GabrielMaschio/FRONTEND_RENTAL_APP) — Angular + Node.js + Prisma + Supabase
 - 🐾 [Sistema de Clínica Veterinária](https://github.com/ViniMaschio/Veterinaria) — C# e Windows Forms
-- 🎓 Sistema com IA para predição de evasão escolar (em andamento)
 
 ---
 
