@@ -13,10 +13,10 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na Unifunec
-- 💡 Interesse em **desenvolvimento web**, **backend** e **inteligência artificial**
+- 💡 Interesse em **desenvolvimento web**, **backend** e **UX/UI**
 - 📚 Atualmente focado em aprimorar minhas habilidades com **Node.js**, **Angular**, **C#/.NET** e **Redes Neurais**
 - 🧠 Desenvolvendo um **sistema de predição de evasão escolar com IA** como TCC
-- 🏃‍♂️ Nos momentos livres, gosto de correr e me superar em treinos!
+- 🏃‍♂️🏐 Gosto de correr e jogar vôlei nas horas vagas!
 
 ---
 
@@ -30,6 +30,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 
 ---
 
