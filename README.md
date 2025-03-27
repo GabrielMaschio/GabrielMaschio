@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Gabriel Maschio 👋</h1>
 
-<!--
-**GabrielMaschio/GabrielMaschio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de Análise e Desenvolvimento de Sistemas  
+  <br/>
+  🚀 Apaixonado por desenvolvimento web e sistemas fullstack  
+  <br/>
+  📍 Santa Fé do Sul - SP
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na Unifunec
+- 💡 Interesse em **desenvolvimento web**, **backend** e **inteligência artificial**
+- 📚 Atualmente focado em aprimorar minhas habilidades com **Node.js**, **Angular**, **C#/.NET** e **Redes Neurais**
+- 🧠 Desenvolvendo um **sistema de predição de evasão escolar com IA** como TCC
+- 🏃‍♂️ Nos momentos livres, gosto de correr e me superar em treinos!
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=fff)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🛒 [Sistema de Loja de Roupas](https://github.com/GabrielMaschio/...) — Carrinho de compras com HTML, CSS, JS e PHP
+- 🚗 [Sistema de Aluguel de Veículos](https://github.com/GabrielMaschio/FRONTEND_RENTAL_APP) — Angular + Node.js + Prisma + Supabase
+- 🐾 [Sistema de Clínica Veterinária](https://github.com/ViniMaschio/Veterinaria) — C# e Windows Forms
+- 🎓 Sistema com IA para predição de evasão escolar (em andamento)
+
+---
+
+### 📬 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Maschio-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ribeiro-maschio-7319ab26b/)
+[![Gmail](https://img.shields.io/badge/-gabrielribeiromaschio@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielribeiromaschio@hotmail.com)
+[![GitHub](https://img.shields.io/badge/-GabrielMaschio-181717?style=flat&logo=github&logoColor=white)](https://github.com/GabrielMaschio)
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+Se gostou de algum projeto, fique à vontade para dar uma estrela ⭐ ou entrar em contato 🚀
