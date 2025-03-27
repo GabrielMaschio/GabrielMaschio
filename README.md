@@ -3,7 +3,7 @@
 <p align="center">
   💻 Estudante de Análise e Desenvolvimento de Sistemas  
   <br/>
-  🚀 Apaixonado por desenvolvimento web e sistemas fullstack  
+  🚀 Apaixonado por desenvolvimento web e design 
   <br/>
   📍 Santa Fé do Sul - SP
 </p>
