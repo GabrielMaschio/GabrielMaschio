@@ -15,7 +15,6 @@
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na Unifunec
 - 💡 Interesse em **desenvolvimento web**, **frontend/backend** e **UX/UI**
 - 📚 Atualmente focado em aprimorar minhas habilidades com **React**, **Next.js** e **UX/UI**
-- 🧠 Desenvolvendo um **sistema de predição de evasão escolar com IA** como TCC
 - 🏃‍♂️🏐 Gosto de correr e jogar vôlei nas horas vagas!
 
 ---
