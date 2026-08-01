@@ -12,9 +12,9 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na Unifunec
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na Unifunec
 - 💡 Interesse em **desenvolvimento web**, **frontend/backend** e **UX/UI**
-- 📚 Atualmente focado em aprimorar minhas habilidades com **React**, **Next.js** e **UX/UI**
+- 📚 Atualmente focado em aprimorar minhas habilidades com **Next.js**, **Nest.js** e **UX/UI**
 - 🏃‍♂️🏐 Gosto de correr e jogar vôlei nas horas vagas!
 
 ---
